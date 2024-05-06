@@ -13,9 +13,11 @@ Step 6: Draw basic object details give in MainActivity file.
 Step 7: Save and run the application
 ## PROGRAM:
 ~~~
+\*
 Program to create and design an android application to draw a shapes using 3D graphics with openGL ES.
 Developed by: JOTHIKRISHNAA V 
 Registeration Number : 212223100017
+*\
 ~~~
 ### MainActivity.java
 ~~~
